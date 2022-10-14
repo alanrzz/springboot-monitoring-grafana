@@ -30,3 +30,9 @@ mvnw.cmd
 HELP.md
 target/
 data/
+src/main/resources/prometheus/console_libraries
+src/main/resources/prometheus/consoles
+src/main/resources/prometheus/LICENSE
+src/main/resources/prometheus/NOTICE
+src/main/resources/prometheus/prometheus
+src/main/resources/prometheus/promtool
